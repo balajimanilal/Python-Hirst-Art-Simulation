@@ -17,7 +17,6 @@ The code simulates a simple painting composed of 100 dots, each filled with a ra
 
 # Code Explanation
 1. Color Extraction:
-
   - A list of colors, color_list, is predefined in the script. These are RGB tuples representing various colors.
   - The code includes commented-out lines using colorgram to extract colors from an image. You can use colorgram to customize your own color list.
 
